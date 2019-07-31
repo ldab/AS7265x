@@ -1,6 +1,10 @@
 # AS7265x
 KICAD LIBRARY - AS7265x Smart Spectral Sensor - Smart 18-Channel VIS+NIR Spectral_ID Sensor with Electronic Shutter
 
+## UPDATE
+
+* Apaprently there're some mistakes and Erratas for those chips, therefore I have confirmed with AMS and the correct pin layout has been update, this is if you're using `v12` flash firmware.
+
 ![](./AS7265x_1) ![](./AS7265x_2) ![](./AS7265x_3)
 
-* From [AMS datasheet](https://ams.com/documents/20143/36005/AS7265x_DS000612_1-00.pdf/08051c8a-a7f6-6231-7993-2d3fe0bf38b8)
+* From [AMS scehmatic](./AS7265x%20Schematic%20Generation_2.pdf)
