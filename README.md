@@ -7,4 +7,4 @@ KICAD LIBRARY - AS7265x Smart Spectral Sensor - Smart 18-Channel VIS+NIR Spectra
 
 ![](./AS7265x_1.svg) ![](./AS7265x_2.svg) ![](./AS7265x_3.svg)
 
-* From [AMS scehmatic](./AS7265x%20Schematic%20Generation_2.pdf)
+* From [AMS schematic](./AS7265x%20Schematic%20Generation_2.pdf)
